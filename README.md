@@ -7,16 +7,13 @@
   
 ###  :wave: Hi~
 <!--   ####  :wave: Welcome my github profile ! -->
-<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+[![velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@jsmon)
   <img src="https://img.shields.io/badge/jsmon3536@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
  <br/>
- <br/>
-
-  [![아줌마 개발일지](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@jsmon)
   
 ###  :clipboard: Skills
-  
+  Platforms & Languages
  <br/>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
